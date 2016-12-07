@@ -1,0 +1,175 @@
+@font-face {
+  font-family: "iconfont";
+  src: url('../fonts/iconfont.eot?t=1477559703');
+  /* IE9*/
+  src: url('../fonts/iconfont.eot?t=1477559703#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('../fonts/iconfont.woff?t=1477559703') format('woff'), /* chrome, firefox */ url('../fonts/iconfont.ttf?t=1477559703') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/ url('../fonts/iconfont.svg?t=1477559703#iconfont') format('svg');
+  /* iOS 4.1- */
+}
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-svg {
+  /* 通过设置 font-size 来改变图标大小 */
+  width: 1em;
+  height: 1em;
+  /* 图标和文字相邻时，垂直对齐 */
+  vertical-align: -0.15em;
+  /* 通过设置 color 来改变 SVG 的颜色/fill */
+  fill: currentColor;
+  /* path 和 stroke 溢出 viewBox 部分在 IE 下会显示
+     normalize.css 中也包含这行 */
+  overflow: hidden;
+}
+.icon-qrcode:before {
+  content: "\e606";
+}
+.icon-ticket:before {
+  content: "\e609";
+}
+.icon-feedback-bg:before {
+  content: "\e625";
+}
+.icon-activity:before {
+  content: "\e604";
+}
+.icon-date:before {
+  content: "\e605";
+}
+.icon-setting:before {
+  content: "\e60a";
+}
+.icon-me:before {
+  content: "\e617";
+}
+.icon-complete-resume:before {
+  content: "\e60e";
+}
+.icon-quick-money:before {
+  content: "\e60f";
+}
+.icon-authentication:before {
+  content: "\e61d";
+}
+.icon-service:before {
+  content: "\e759";
+}
+.icon-recruit:before {
+  content: "\e61f";
+}
+.icon-location:before {
+  content: "\e607";
+}
+.icon-arrow-bottom:before {
+  content: "\e600";
+}
+.icon-arrow-top:before {
+  content: "\e601";
+}
+.icon-arrow-left:before {
+  content: "\e602";
+}
+.icon-arrow-right:before {
+  content: "\e603";
+}
+.icon-edit:before {
+  content: "\e61c";
+}
+.icon-professional-skills:before {
+  content: "\e614";
+}
+.icon-idcard:before {
+  content: "\e608";
+}
+.icon-tao-tu:before {
+  content: "\e610";
+}
+.icon-badge:before {
+  content: "\e60b";
+}
+.icon-preview:before {
+  content: "\e616";
+}
+.icon-filter:before {
+  content: "\e656";
+}
+.icon-required:before {
+  content: "\e74c";
+}
+.icon-right:before {
+  content: "\e74d";
+}
+.icon-resume:before {
+  content: "\e60c";
+}
+.icon-info:before {
+  content: "\e7cf";
+}
+.icon-dropdown:before {
+  content: "\e696";
+}
+.icon-money-bag:before {
+  content: "\e615";
+}
+.icon-feedback:before {
+  content: "\e66c";
+}
+.icon-pocket:before {
+  content: "\e60d";
+}
+.icon-gift:before {
+  content: "\e750";
+}
+.icon-question-mark:before {
+  content: "\e613";
+}
+.icon-identity-confirm:before {
+  content: "\e611";
+}
+.icon-credit-store:before {
+  content: "\e612";
+}
+.icon-recommendation:before {
+  content: "\e61b";
+}
+.icon-hot-news:before {
+  content: "\e620";
+}
+.icon-home:before {
+  content: "\e621";
+}
+.icon-discover:before {
+  content: "\e622";
+}
+.icon-find-job:before {
+  content: "\e623";
+}
+.icon-my:before {
+  content: "\e624";
+}
+.icon-qr-code:before {
+  content: "\e791";
+}
+.icon-companyprofile:before {
+  content: "\e626";
+}
+.icon-worker:before {
+  content: "\e629";
+}
+.icon-salary:before {
+  content: "\e62a";
+}
+.icon-tounick-money:before {
+  content: "\e62c";
+}
